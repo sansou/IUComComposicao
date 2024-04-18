@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IU com composição</string>
+    <string name="numero_telefone">(73) 99116-5921</string>
+    <string name="email">santos.thales89@gmail.com</string>
+    <string name="linkedin">https://www.linkedin.com/in/thales-souza-b4285b10b/</string>
+    <string name="instagram">https://www.instagram.com/thales.css/</string>
+    <string name="nome_completo">Thales Santos Souza</string>
+    <string name="titulo">Cientista da Computação</string>
+</resources>
